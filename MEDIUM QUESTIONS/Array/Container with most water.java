@@ -7,7 +7,8 @@ class Solution {
               
         while(st<=end){          
             int  temp_ans=Math.min(height[st], height [end])*(end-st);  
-         ans=Math.max(ans,temp_ans);           if(height[st]<height[end]){
+         ans=Math.max(ans,temp_ans);           
+if(height[st]<height[end]){
                 st++;                
             }
             else{
