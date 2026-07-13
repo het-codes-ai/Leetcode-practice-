@@ -1,4 +1,4 @@
-/////DUTCH NATIONAL FLAG ALGORITHM \\\\\
+///DUTCH NATIONAL FLAG ALGORITHM\\\
 
 
 class Solution {
