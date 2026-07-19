@@ -11,37 +11,6 @@ The repository is structured strictly by platform difficulty tiers to ensure cle
 
 ---
 
-## Technical Domain Focus
-
-Solutions are sub-classified internally based on foundational data structures and core computational patterns:
-
-### 1. Linear Data Structures (Array and 2-D Array)
-- Standard array traversals, element searching, in-place sorting operations, and pointer-based sliding adjustments.
-- Two-dimensional matrix manipulation, nested spatial transformations, and grid calculations.
-
-### 2. Character Sequence Systems (Strings)
-- Dynamic string manipulation, contiguous pattern analysis, character frequency tracking, and alphanumeric verification models.
-
-### 3. Computational Operations (Bit Manipulation)
-- Performance-optimized operations utilizing low-level bitwise operators (AND, OR, XOR, shifts) to bypass standard arithmetic calculation constraints.
-
----
-
-## Current Target Directory Index
-
-The following modules represent active tracking profiles currently verified within the Easy Questions compiler workspace:
-
-### Easy Array Module Inventory
-- `Best time to buy stock-1.java` (Linear profit tracking optimization)
-- `Binary search.java` (Logarithmic space reduction framework)
-- `Find the peaks.java` (Neighbor-comparison element matching)
-- `Majority element.java` (Frequency distribution calculations)
-- `Merge sorted arrays.java` (In-place linear merging systems)
-- `Plus one.java` (Array representation digit increments)
-- `Single number.java` (Bitwise bit-cancellation implementations)
-
----
-
 ## Execution Framework
 
 To test or execute any module within this collection:
