@@ -18,3 +18,5 @@ if(height[st]<height[end]){
         return ans;     
     }
 }
+//TC O(n)
+//SC O(1)
