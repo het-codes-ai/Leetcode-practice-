@@ -30,3 +30,5 @@ class Solution {
     
     }
 }
+//TC O(n+m)
+//SC O(1)
