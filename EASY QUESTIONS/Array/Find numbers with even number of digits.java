@@ -15,3 +15,5 @@ class Solution {
         return ans_count;
     }
 }
+//TC O(n*d) (d=no of digits in largest number, but ignorable)
+//SC O(1)
