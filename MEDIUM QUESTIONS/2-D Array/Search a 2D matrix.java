@@ -36,3 +36,5 @@ class Solution {
         return ans;
     }
 }
+//TC O(log(m*n))
+//SC O(1)
