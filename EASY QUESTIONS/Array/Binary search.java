@@ -20,5 +20,5 @@ class Solution {
         
     }
 }
-//TC O(n)
+//TC O(log n)
 //SC O(1)
